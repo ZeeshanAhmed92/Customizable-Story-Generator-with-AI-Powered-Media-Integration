@@ -1,0 +1,9 @@
+torch 
+streamlit
+reportlab
+diffusers
+PIL
+gtts
+groq
+matplotlib
+deep_translator
